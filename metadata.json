@@ -1,0 +1,5 @@
+{
+  "name": "BlueArm POS",
+  "description": "A complete retail Point-of-Sale (POS) system designed to be a best-in-class solution with features like multi-outlet support, offline mode, and comprehensive management of inventory, sales, customers, and staff.",
+  "requestFramePermissions": []
+}
